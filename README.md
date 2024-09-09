@@ -1,6 +1,6 @@
 # PDF-QA-Chatbot
 
-A PDF-based Question-Answering Chatbot built using GPT-4, Sentence Transformers, FAISS, and Gradio. This application extracts text from PDF documents, generates embeddings for the extracted text, and answers user questions based on the document's content. It provides a user-friendly web interface powered by Gradio.
+A PDF-based Question-Answering Chatbot built using GPT-4o, Sentence Transformers, FAISS, and Gradio. This application extracts text from PDF documents, generates embeddings for the extracted text, and answers user questions based on the document's content. It provides a user-friendly web interface powered by Gradio.
 
 ## Features
 
