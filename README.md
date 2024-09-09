@@ -7,7 +7,7 @@ A PDF-based Question-Answering Chatbot built using GPT-4o, Sentence Transformers
 - Extract text from PDF files.
 - Use Sentence Transformers to generate embeddings for chunks of text.
 - Utilize FAISS for efficient similarity search.
-- Answer questions based on the content of the uploaded PDF using GPT-4.
+- Answer questions based on the content of the uploaded PDF using GPT-4o.
 - User-friendly interface built with Gradio for easy interaction.
 
 ## Installation
