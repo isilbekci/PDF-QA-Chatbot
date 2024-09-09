@@ -36,4 +36,4 @@ A PDF-based Question-Answering Chatbot built using GPT-4, Sentence Transformers,
 Run the application with the following command:
 
 ```bash
-python app.py
+python chatbot.py
