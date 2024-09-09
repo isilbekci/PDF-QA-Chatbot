@@ -15,7 +15,7 @@ A PDF-based Question-Answering Chatbot built using GPT-4, Sentence Transformers,
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/PDF-QA-Chatbot.git
+    git clone https://github.com/isilbekci/PDF-QA-Chatbot.git
     cd PDF-QA-Chatbot
     ```
 
